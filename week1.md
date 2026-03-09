@@ -6,19 +6,19 @@
 
 RuyiSDK 测试报告
 
-[Ruyi SDK](<./Ruyi SDK.pdf>)
+[Ruyi SDK](<./Ruyi SDK.md>)
 
 Ruyi SDK IDE Eclipse 测试报告
 
-[Ruyi SDK IDE Eclipse](<./Ruyi SDK IDE Eclipse.pdf>)
+[Ruyi SDK IDE Eclipse](<./Ruyi SDK IDE Eclipse.md>)
 
 Ruyi SDK IDE VS 测试报告
 
-[Ruyi SDK IDE VS](<./Ruyi SDK IDE VS.pdf>)
+[Ruyi SDK IDE VS](<./Ruyi SDK IDE VS.md>)
 
 实例代码
 
-[实例代码](./实例代码.pdf)
+[实例代码](./实例代码.md)
 
 ## 2.Sipeed Tang Mega 138K 开发板资源调研
 
